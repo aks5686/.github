@@ -9,7 +9,7 @@ Currently building **[Syzygy](https://github.com/Syzygy-Hub)** — a cross-platf
 - 🏗️ **Architecture** — Clean Architecture, MVVM, dependency injection, CI/CD pipelines
 - 📱 **Platforms** — Swift/SwiftUI, Kotlin/Jetpack Compose, React Native/TypeScript, Flutter/Dart
 - 🔒 **Security** — VPN protocol implementation, secure storage, encrypted networking
-- 🌍 **Open to** senior mobile architecture and engineering leadership roles — UK, UAE, Australia, Canada, and remote
+- 🌍 **Open to** senior mobile architecture and engineering leadership roles gloablly
 
 ### Portfolio
 
